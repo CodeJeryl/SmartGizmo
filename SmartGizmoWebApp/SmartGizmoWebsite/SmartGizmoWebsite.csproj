@@ -143,6 +143,10 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Views\Home\elements.html" />
+    <Content Include="Views\Home\left-sidebar.html" />
+    <Content Include="Views\Home\no-sidebar.html" />
+    <Content Include="Views\Home\right-sidebar.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
