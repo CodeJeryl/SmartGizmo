@@ -132,6 +132,7 @@
     <Content Include="Content\sass\libs\_skel.scss" />
     <Content Include="Content\sass\libs\_vars.scss" />
     <Content Include="Content\sass\main.scss" />
+    <None Include="Properties\PublishProfiles\SmarterASP.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
