@@ -94,6 +94,7 @@
     <Content Include="Content\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\images\banner.jpg" />
     <Content Include="Content\images\Echo-Dot-Top.png" />
+    <Content Include="Content\images\echo-white-black.png" />
     <Content Include="Content\images\image-1.png" />
     <Content Include="Content\images\image-2.png" />
     <Content Include="Content\images\image-3.png" />
