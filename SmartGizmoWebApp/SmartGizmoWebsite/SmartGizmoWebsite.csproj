@@ -97,6 +97,7 @@
     <Content Include="Content\images\banner.jpg" />
     <Content Include="Content\images\Echo-Dot-Top.png" />
     <Content Include="Content\images\echo-white-black.png" />
+    <Content Include="Content\images\how_to_setup.jpg" />
     <Content Include="Content\images\image-1.png" />
     <Content Include="Content\images\image-2.jpg" />
     <Content Include="Content\images\image-3.png" />
@@ -119,6 +120,7 @@
     <Content Include="Content\js\skel.min.js" />
     <Content Include="Content\js\util.js" />
     <Content Include="Content\Site.css" />
+    <Content Include="Content\videos\Amazon_Echo_Dot_Setup.mp4" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
